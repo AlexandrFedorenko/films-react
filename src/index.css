@@ -35,6 +35,7 @@ label:not(:last-child) {
   max-height: 400px;
   object-fit: cover;
 }
+
 .page-footer{
   padding-top: 0;
 }
